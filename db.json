@@ -1,0 +1,184 @@
+{
+  "homes": [
+    {
+      "id": 1,
+      "title": "2 5 (Single) - Young H, Táo, Sol'Bass, V.A",
+      "category": "Nhạc Trẻ",
+      "listens": "51.3K",
+      "timeEnd": "05:02",
+      "image": "home-1.jpg",
+      "audio": "home-audio-1.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Single Lady (Gái Độc Thân) - tlinh",
+      "category": "Nhạc Trẻ",
+      "listens": "1.0K",
+      "timeEnd": "02:57",
+      "image": "home-2.jpg",
+      "audio": "home-audio-2.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Chỉ Một Đêm Nữa Thôi (Live At 1900 Le Theatre) - MCK, tlinh",
+      "category": "Nhạc Trẻ",
+      "listens": "37.0K",
+      "timeEnd": "02:15",
+      "image": "home-3.jpg",
+      "audio": "home-audio-3.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Để Mị Nói Cho Mà Nghe - Hoàng Thùy Linh",
+      "category": "Nhạc Trẻ",
+      "listens": "51.3K",
+      "timeEnd": "03:14",
+      "image": "home-4.jpg",
+      "audio": "home-audio-4.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Cứ Chill Thôi - Chillies, Suni Hạ Linh, Rhymastic",
+      "category": "Nhạc Trẻ",
+      "listens": "85.1K",
+      "timeEnd": "04:30",
+      "image": "home-5.jpg",
+      "audio": "home-audio-5.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Chân Ái - Orange, Khói, Châu Đăng Khoa",
+      "category": "Nhạc Trẻ",
+      "listens": "58.5K",
+      "timeEnd": "04:23",
+      "image": "home-6.jpg",
+      "audio": "home-audio-6.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Vệ Tinh - HIEUTHUHAI, Hoàng Tôn, Kewtiie",
+      "category": "Nhạc Trẻ",
+      "listens": "77.3K",
+      "timeEnd": "03:39",
+      "image": "home-7.jpg",
+      "audio": "home-audio-7.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Đế Vương - Đình Dũng, ACV",
+      "category": "Nhạc Trẻ",
+      "listens": "39.6K",
+      "timeEnd": "04:22",
+      "image": "home-8.jpg",
+      "audio": "home-audio-8.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Từng Yêu - Phan Duy Anh",
+      "category": "Nhạc Trẻ",
+      "listens": "47.6K",
+      "timeEnd": "05:05",
+      "image": "home-9.jpg",
+      "audio": "home-audio-9.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Hoa Nở Không Màu - Hoài Lâm",
+      "category": "Nhạc Trẻ",
+      "listens": "38.0K",
+      "timeEnd": "05:28",
+      "image": "home-10.jpg",
+      "audio": "home-audio-10.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Tuổi Trẻ - Inv!ncIble",
+      "category": "Rap",
+      "listens": "36.8K",
+      "timeEnd": "03:54",
+      "image": "home-11.jpg",
+      "audio": "home-audio-11.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Vegeta - Bluebby",
+      "category": "Rap",
+      "listens": "10.0K",
+      "timeEnd": "01:46",
+      "image": "home-12.jpg",
+      "audio": "home-audio-12.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Những Ngày Trải Qua - J.Key, Chúc Hỷ, Xám",
+      "category": "Rap",
+      "listens": "40.2K",
+      "timeEnd": "05:10",
+      "image": "home-13.jpg",
+      "audio": "home-audio-13.mp3"
+    },
+    {
+      "id": 14,
+      "title": "Lắng - Tkal, Youngmizzle, LT Midside",
+      "category": "Rap",
+      "listens": "51.3K",
+      "timeEnd": "03:38",
+      "image": "home-14.jpg",
+      "audio": "home-audio-14.mp3"
+    },
+    {
+      "id": 15,
+      "title": "Có Người Đón Em Rồi - Osad",
+      "category": "Rap",
+      "listens": "44.1K",
+      "timeEnd": "02:27",
+      "image": "home-15.jpg",
+      "audio": "home-audio-15.mp3"
+    },
+    {
+      "id": 16,
+      "title": "Giáng Sinh Bên Em - Longaoden, KADO, Canh, V.A",
+      "category": "Rap",
+      "listens": "61.9K",
+      "timeEnd": "02:39",
+      "image": "home-16.jpg",
+      "audio": "home-audio-16.mp3"
+    },
+    {
+      "id": 17,
+      "title": "Đừng Tìm - 19 Mane",
+      "category": "Rap",
+      "listens": "55.6K",
+      "timeEnd": "03:23",
+      "image": "home-17.jpg",
+      "audio": "home-audio-17.mp3"
+    },
+    {
+      "id": 18,
+      "title": "Khongconsuy - stillyoungdip",
+      "category": "Rap",
+      "listens": "8K",
+      "timeEnd": "02:45",
+      "image": "home-18.jpg",
+      "audio": "home-audio-18.mp3"
+    },
+    {
+      "id": 19,
+      "title": "Em Dang Ben Ice - Lag",
+      "category": "Rap",
+      "listens": "1K",
+      "timeEnd": "02:42",
+      "image": "home-19.jpg",
+      "audio": "home-audio-19.mp3"
+    },
+    {
+      "id": 20,
+      "title": "Sao Yêu Như Vậy - Hngle, Makki",
+      "category": "Rap",
+      "listens": "2.8K",
+      "timeEnd": "02:47",
+      "image": "home-20.jpg",
+      "audio": "home-audio-20.mp3"
+    }
+  ]
+}

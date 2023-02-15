@@ -1,0 +1,22 @@
+{
+  "name": "json-server-music",
+  "version": "1.0.0",
+  "description": "api music",
+  "main": "index.js",
+  "scripts": {
+    "test": "no",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "music-app"
+  ],
+  "author": "Hieu",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
